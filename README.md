@@ -4,7 +4,7 @@
 
 ## Contributing
 
-CloudNativeDaysのウェブサイト（https://cloudnativedays.jp/）は[Hugo](https://gohugo.io/)を用いて作成します。各セクションのコンテンツを変更する場合、 https://github.com/cloudnativedaysjp/cloudnativedays.jp/tree/master/content/sections 内のマークダウンファイルを編集してください。
+[CloudNativeDays のウェブサイト](https://cloudnativedays.jp/)は [Hugo](https://gohugo.io/) を用いて作成します。各セクションのコンテンツを変更する場合、 https://github.com/cloudnativedaysjp/cloudnativedays.jp/tree/master/content/sections 内のマークダウンファイルを編集してください。
 
 CI/CDはGitHub Actionsを使っています。PRを作成するとS3にプレビューがデプロイされます。また、PRをマージすると自動的にGitHub Pagesにデプロイされます。
 
